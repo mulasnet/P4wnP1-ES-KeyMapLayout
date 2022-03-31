@@ -16,7 +16,7 @@ and
 /usr/local/P4wnP1/keymaps/
 ```
 
-Once you have done this, you only have to replace the layout from 'us' to 'es'
+Once you have done this, you only have to replace the layout from 'us' to 'es' on the payload you are going to use
 
 ```js
 layout('es');
