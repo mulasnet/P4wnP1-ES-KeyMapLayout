@@ -18,6 +18,6 @@ and
 
 Once you have done this, you only have to replace the layout from 'us' to 'es'
 
-```json
+```js
 layout('es');
 ```
